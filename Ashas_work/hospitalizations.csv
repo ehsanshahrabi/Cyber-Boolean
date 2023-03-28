@@ -1,0 +1,266 @@
+Age group,Month,Vaccine status,Rate
+5-17 yr,Dec-21,Unvaccinated,3.9
+5-17 yr,Jan-22,Unvaccinated,11
+5-17 yr,Feb-22,Unvaccinated,5
+5-17 yr,Mar-22,Unvaccinated,1.9
+5-17 yr,Apr-22,Unvaccinated,1.7
+5-17 yr,May-22,Unvaccinated,3.4
+5-17 yr,Jun-22,Unvaccinated,3.7
+5-17 yr,Jul-22,Unvaccinated,5
+5-17 yr,Aug-22,Unvaccinated,5.2
+5-17 yr,Sep-22,Unvaccinated,2.8
+5-17 yr,Oct-22,Unvaccinated,4
+5-17 yr,Nov-22,Unvaccinated,5.6
+5-17 yr,Dec-22,Unvaccinated,9.8
+5-17 yr,Dec-21,Vaccinated,3.3
+5-17 yr,Jan-22,Vaccinated,4.1
+5-17 yr,Feb-22,Vaccinated,2.2
+5-17 yr,Mar-22,Vaccinated,1
+5-17 yr,Apr-22,Vaccinated,0.9
+5-17 yr,May-22,Vaccinated,2.1
+5-17 yr,Jun-22,Vaccinated,2.4
+5-17 yr,Jul-22,Vaccinated,2.6
+5-17 yr,Aug-22,Vaccinated,3
+5-17 yr,Sep-22,Vaccinated,1.9
+5-17 yr,Oct-22,Vaccinated,1.1
+5-17 yr,Nov-22,Vaccinated,1.9
+5-17 yr,Dec-22,Vaccinated,2.1
+5-17 yr,Jun-21,Unvaccinated,0.8
+5-17 yr,Jul-21,Unvaccinated,3.7
+5-17 yr,Aug-21,Unvaccinated,13.6
+5-17 yr,Sep-21,Unvaccinated,15
+5-17 yr,Oct-21,Unvaccinated,13.6
+5-17 yr,Nov-21,Unvaccinated,10.9
+5-17 yr,Dec-21,Unvaccinated,23.7
+5-17 yr,Jan-22,Unvaccinated,31.9
+5-17 yr,Feb-22,Unvaccinated,9.5
+5-17 yr,Mar-22,Unvaccinated,4.1
+5-17 yr,Apr-22,Unvaccinated,2.2
+5-17 yr,May-22,Unvaccinated,7.6
+5-17 yr,Jun-22,Unvaccinated,7.2
+5-17 yr,Jul-22,Unvaccinated,13.9
+5-17 yr,Aug-22,Unvaccinated,10.8
+5-17 yr,Sep-22,Unvaccinated,6.4
+5-17 yr,Oct-22,Unvaccinated,22.3
+5-17 yr,Nov-22,Unvaccinated,17.1
+5-17 yr,Dec-22,Unvaccinated,37.3
+5-17 yr,Jun-21,Vaccinated,0.2
+5-17 yr,Jul-21,Vaccinated,0.3
+5-17 yr,Aug-21,Vaccinated,0.8
+5-17 yr,Sep-21,Vaccinated,1
+5-17 yr,Oct-21,Vaccinated,0.7
+5-17 yr,Nov-21,Vaccinated,1.3
+5-17 yr,Dec-21,Vaccinated,3.3
+5-17 yr,Jan-22,Vaccinated,17.5
+5-17 yr,Feb-22,Vaccinated + Booster,5.1
+5-17 yr,Mar-22,Vaccinated + Booster,1.5
+5-17 yr,Apr-22,Vaccinated + Booster,1.8
+5-17 yr,May-22,Vaccinated + Booster,4.1
+5-17 yr,Jun-22,Vaccinated + Booster,4.5
+5-17 yr,Jul-22,Vaccinated + Booster,6.4
+5-17 yr,Aug-22,Vaccinated + Booster,3.5
+5-17 yr,Sep-22,Vaccinated + Booster,4.2
+5-17 yr,Oct-22,Vaccinated,2
+5-17 yr,Nov-22,Vaccinated,1.5
+5-17 yr,Dec-22,Vaccinated,2.7
+18+ yr,Jan-21,Unvaccinated,37.3
+18+ yr,Feb-21,Unvaccinated,20.6
+18+ yr,Mar-21,Unvaccinated,23.5
+18+ yr,Apr-21,Unvaccinated,42.6
+18+ yr,May-21,Unvaccinated,37.1
+18+ yr,Jun-21,Unvaccinated,17.5
+18+ yr,Jul-21,Unvaccinated,36.8
+18+ yr,Aug-21,Unvaccinated,102.4
+18+ yr,Sep-21,Unvaccinated,94.3
+18+ yr,Oct-21,Unvaccinated,72.7
+18+ yr,Nov-21,Unvaccinated,84.7
+18+ yr,Dec-21,Unvaccinated,133.9
+18+ yr,Jan-22,Unvaccinated,188.4
+18+ yr,Feb-22,Unvaccinated,54.9
+18+ yr,Mar-22,Unvaccinated,16.7
+18+ yr,Apr-22,Unvaccinated,17.1
+18+ yr,May-22,Unvaccinated,34.1
+18+ yr,Jun-22,Unvaccinated,37.3
+18+ yr,Jul-22,Unvaccinated,58.1
+18+ yr,Aug-22,Unvaccinated,46.5
+18+ yr,Sep-22,Unvaccinated,30.6
+18+ yr,Oct-22,Unvaccinated,86.8
+18+ yr,Nov-22,Unvaccinated,98.9
+18+ yr,Dec-22,Unvaccinated,97.4
+18+ yr,Jan-21,Vaccinated,2.1
+18+ yr,Feb-21,Vaccinated,1.5
+18+ yr,Mar-21,Vaccinated,1.4
+18+ yr,Apr-21,Vaccinated,1.5
+18+ yr,May-21,Vaccinated,1.9
+18+ yr,Jun-21,Vaccinated,1.3
+18+ yr,Jul-21,Vaccinated,1.8
+18+ yr,Aug-21,Vaccinated,4.9
+18+ yr,Sep-21,Vaccinated,3.9
+18+ yr,Oct-21,Vaccinated,4.6
+18+ yr,Nov-21,Vaccinated,5.3
+18+ yr,Dec-21,Vaccinated + Booster,5.4
+18+ yr,Jan-22,Vaccinated + Booster,23.1
+18+ yr,Feb-22,Vaccinated + Booster,9.5
+18+ yr,Mar-22,Vaccinated + Booster,5.8
+18+ yr,Apr-22,Vaccinated + Booster,5.9
+18+ yr,May-22,Vaccinated + Booster,10.8
+18+ yr,Jun-22,Vaccinated + Booster,13.3
+18+ yr,Jul-22,Vaccinated + Booster,17.7
+18+ yr,Aug-22,Vaccinated + Booster,16.4
+18+ yr,Sep-22,Vaccinated + Booster,9
+18+ yr,Oct-22,Vaccinated,7.5
+18+ yr,Nov-22,Vaccinated,8.7
+18+ yr,Dec-22,Vaccinated,12.9
+18+ yr,Nov-22,Vaccinated + Booster,2.7
+18+ yr,Dec-22,Vaccinated + Booster,4.5
+18+ yr,Jan-21,Unvaccinated,106.2
+18+ yr,Feb-21,Unvaccinated,52
+18+ yr,Mar-21,Unvaccinated,60.3
+18+ yr,Apr-21,Unvaccinated,112.8
+18+ yr,May-21,Unvaccinated,97
+18+ yr,Jun-21,Unvaccinated,40.8
+18+ yr,Jul-21,Unvaccinated,87.9
+18+ yr,Aug-21,Unvaccinated,287.6
+18+ yr,Sep-21,Unvaccinated,305.2
+18+ yr,Oct-21,Unvaccinated,229.3
+18+ yr,Nov-21,Unvaccinated,319.6
+18+ yr,Dec-21,Unvaccinated,426.1
+18+ yr,Jan-22,Unvaccinated,527.2
+18+ yr,Feb-22,Unvaccinated,148.4
+18+ yr,Mar-22,Unvaccinated,43.9
+18+ yr,Apr-22,Unvaccinated,38.6
+18+ yr,May-22,Unvaccinated,77.9
+18+ yr,Jun-22,Unvaccinated,79.9
+18+ yr,Jul-22,Unvaccinated,110.4
+18+ yr,Aug-22,Unvaccinated,125.4
+18+ yr,Sep-22,Unvaccinated,74
+18+ yr,Oct-22,Unvaccinated,122.3
+18+ yr,Nov-22,Unvaccinated,124.9
+18+ yr,Dec-22,Unvaccinated,198.9
+18+ yr,Jan-21,Vaccinated,10.8
+18+ yr,Feb-21,Vaccinated,4.9
+18+ yr,Mar-21,Vaccinated,7.6
+18+ yr,Apr-21,Vaccinated,4.6
+18+ yr,May-21,Vaccinated,4.4
+18+ yr,Jun-21,Vaccinated,2.4
+18+ yr,Jul-21,Vaccinated,4.8
+18+ yr,Aug-21,Vaccinated,14.2
+18+ yr,Sep-21,Vaccinated,15.6
+18+ yr,Oct-21,Vaccinated,16.1
+18+ yr,Nov-21,Vaccinated,20.5
+18+ yr,Dec-21,Vaccinated + Booster,14.1
+18+ yr,Jan-22,Vaccinated + Booster,46.8
+18+ yr,Feb-22,Vaccinated + Booster,18
+18+ yr,Mar-22,Vaccinated + Booster,9.2
+18+ yr,Apr-22,Vaccinated + Booster,10.4
+18+ yr,May-22,Vaccinated + Booster,21.8
+18+ yr,Jun-22,Vaccinated + Booster,25.1
+18+ yr,Jul-22,Vaccinated + Booster,31.8
+18+ yr,Aug-22,Vaccinated + Booster,17.6
+18+ yr,Sep-22,Vaccinated + Booster,18.2
+18+ yr,Oct-22,Vaccinated,19.5
+18+ yr,Nov-22,Vaccinated,23.1
+18+ yr,Dec-22,Vaccinated,27.5
+18+ yr,Nov-22,Vaccinated + Booster,7.9
+18+ yr,Dec-22,Vaccinated + Booster,8.3
+18+ yr,Jan-21,Unvaccinated,91.4
+18+ yr,Feb-21,Unvaccinated,44.8
+18+ yr,Mar-21,Unvaccinated,50.8
+18+ yr,Apr-21,Unvaccinated,95.7
+18+ yr,May-21,Unvaccinated,81
+18+ yr,Jun-21,Unvaccinated,34.1
+18+ yr,Jul-21,Unvaccinated,68.9
+18+ yr,Aug-21,Unvaccinated,217.7
+18+ yr,Sep-21,Unvaccinated,233.3
+18+ yr,Oct-21,Unvaccinated,199.6
+18+ yr,Nov-21,Unvaccinated,269.4
+18+ yr,Dec-21,Unvaccinated,413.5
+18+ yr,Jan-22,Unvaccinated,604.9
+18+ yr,Feb-22,Unvaccinated,184.8
+18+ yr,Mar-22,Unvaccinated,53.1
+18+ yr,Apr-22,Unvaccinated,49.9
+18+ yr,May-22,Unvaccinated,112.9
+18+ yr,Jun-22,Unvaccinated,114.9
+18+ yr,Jul-22,Unvaccinated,151
+18+ yr,Aug-22,Unvaccinated,134.8
+18+ yr,Sep-22,Unvaccinated,87.9
+18+ yr,Oct-22,Unvaccinated,142.7
+18+ yr,Nov-22,Unvaccinated,177.8
+18+ yr,Dec-22,Unvaccinated,225.8
+18+ yr,Jan-21,Vaccinated,3.8
+18+ yr,Feb-21,Vaccinated,9.7
+18+ yr,Mar-21,Vaccinated,6.6
+18+ yr,Apr-21,Vaccinated,6
+18+ yr,May-21,Vaccinated,4.5
+18+ yr,Jun-21,Vaccinated,2.6
+18+ yr,Jul-21,Vaccinated,5.1
+18+ yr,Aug-21,Vaccinated,16.4
+18+ yr,Sep-21,Vaccinated,17.1
+18+ yr,Oct-21,Vaccinated,16.9
+18+ yr,Nov-21,Vaccinated + Booster,11.4
+18+ yr,Dec-21,Vaccinated + Booster,12.4
+18+ yr,Jan-22,Vaccinated + Booster,46.5
+18+ yr,Feb-22,Vaccinated + Booster,20.5
+18+ yr,Mar-22,Vaccinated + Booster,10.8
+18+ yr,Apr-22,Vaccinated + Booster,14.5
+18+ yr,May-22,Vaccinated + Booster,18.7
+18+ yr,Jun-22,Vaccinated + Booster,22.8
+18+ yr,Jul-22,Vaccinated + Booster,35.8
+18+ yr,Aug-22,Vaccinated + Booster,29.9
+18+ yr,Sep-22,Vaccinated + Booster,22.5
+18+ yr,Oct-22,Vaccinated,27.3
+18+ yr,Nov-22,Vaccinated,28.7
+18+ yr,Dec-22,Vaccinated,37.5
+18+ yr,Nov-22,Vaccinated + Booster,10.8
+18+ yr,Dec-22,Vaccinated + Booster,14.2
+65+ yr,Jan-21,Unvaccinated,229.8
+65+ yr,Feb-21,Unvaccinated,106.2
+65+ yr,Mar-21,Unvaccinated,118
+65+ yr,Apr-21,Unvaccinated,228.2
+65+ yr,May-21,Unvaccinated,188.2
+65+ yr,Jun-21,Unvaccinated,73.8
+65+ yr,Jul-21,Unvaccinated,138.5
+65+ yr,Aug-21,Unvaccinated,464.8
+65+ yr,Sep-21,Unvaccinated,546.5
+65+ yr,Oct-21,Unvaccinated,530.7
+65+ yr,Nov-21,Unvaccinated,742.5
+65+ yr,Dec-21,Unvaccinated,1232.8
+65+ yr,Jan-22,Unvaccinated,1945.7
+65+ yr,Feb-22,Unvaccinated,618
+65+ yr,Mar-22,Unvaccinated,173.3
+65+ yr,Apr-22,Unvaccinated,161.7
+65+ yr,May-22,Unvaccinated,392.1
+65+ yr,Jun-22,Unvaccinated,390.6
+65+ yr,Jul-22,Unvaccinated,470.6
+65+ yr,Aug-22,Unvaccinated,402.4
+65+ yr,Sep-22,Unvaccinated,271.5
+65+ yr,Oct-22,Unvaccinated,330.1
+65+ yr,Nov-22,Unvaccinated,472.6
+65+ yr,Dec-22,Unvaccinated,631.5
+65+ yr,Jan-21,Vaccinated,0
+65+ yr,Feb-21,Vaccinated,39.2
+65+ yr,Mar-21,Vaccinated,20.4
+65+ yr,Apr-21,Vaccinated,20.7
+65+ yr,May-21,Vaccinated,12.2
+65+ yr,Jun-21,Vaccinated,6.8
+65+ yr,Jul-21,Vaccinated,15.1
+65+ yr,Aug-21,Vaccinated,52.3
+65+ yr,Sep-21,Vaccinated,57.3
+65+ yr,Oct-21,Vaccinated,53.8
+65+ yr,Nov-21,Vaccinated + Booster,17.8
+65+ yr,Dec-21,Vaccinated + Booster,31.1
+65+ yr,Jan-22,Vaccinated + Booster,116.1
+65+ yr,Feb-22,Vaccinated + Booster,56.7
+65+ yr,Mar-22,Vaccinated + Booster,27.4
+65+ yr,Apr-22,Vaccinated + Booster,45.3
+65+ yr,May-22,Vaccinated + Booster,38.4
+65+ yr,Jun-22,Vaccinated + Booster,48.2
+65+ yr,Jul-22,Vaccinated + Booster,93.1
+65+ yr,Aug-22,Vaccinated + Booster,84.4
+65+ yr,Sep-22,Vaccinated + Booster,66.9
+65+ yr,Oct-22,Vaccinated,94
+65+ yr,Nov-22,Vaccinated,93.4
+65+ yr,Dec-22,Vaccinated,121.1
+65+ yr,Oct-22,Vaccinated + Booster,26.2
+65+ yr,Nov-22,Vaccinated + Booster,37.9
+65+ yr,Dec-22,Vaccinated + Booster,49.4
