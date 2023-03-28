@@ -40,7 +40,7 @@ There was a surge in hospitalizations for the youth in January 2022, and Decembe
 Furthermore, there were more hospitalizations for those that were unvaccinated, than those that were vaccinated with the booster between. This shows a decrease in hospitalizations from vaccinated adults 18+ without the booster, and an increase in hospitalizations between November 2021 to September 2022 in vaccinated adults with the booster.
 Overall these visuals show that there is an overwhelming outcome of hospitalizations amongst unvaccinated individuals, which gathers that vaccinations make a significant difference compared to those that are unvaccinated.
 
-Ehsan -Slides: 16-17-18-19
+Ehsan -Slides: 16-17-18-19 ehsan.ipynb
 Analysis and Conclusion
 The visualizations provide compelling evidence that there is a substantial difference in COVID-19 outcomes between vaccinated and unvaccinated individuals. In every representation, unvaccinated individuals experience higher outcome rates.
 Both line charts and bar charts consistently display a higher prevalence of COVID-19 cases and deaths among unvaccinated individuals compared to their vaccinated counterparts. This trend is evident across all time periods, illustrating the persistence of this disparity.
